@@ -100,10 +100,8 @@ MIT License
 ## Author
 
 Jim Phillips  
-jim@ergophobia.org
-https://ergophobia.org
-https://x.com/ergophobe  
-https://github.com/ergofobe
+jim@ergophobia.org  
+https://github.com/ergofobe 
 
 ## Disclaimer
 
