@@ -26,7 +26,7 @@ Never share your mnemonic. Use at your own risk.
 
 ```bash
 # Clone the repo
-git clone https://github.com/ergophobe/xrpl-sweep.git
+git clone https://github.com/ergofobe/xrpl-sweep.git
 cd xrpl-sweep
 
 # Install dependencies
@@ -100,8 +100,10 @@ MIT License
 ## Author
 
 Jim Phillips  
-@ergophobe  
-https://github.com/ergophobe
+jim@ergophobia.org
+https://ergophobia.org
+https://x.com/ergophobe  
+https://github.com/ergofobe
 
 ## Disclaimer
 

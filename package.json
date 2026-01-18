@@ -24,7 +24,7 @@
   "author": {
     "name": "Jim Phillips",
     "email": "jim@ergophobia.org",
-    "url": "https://github.com/ergophobe"
+    "url": "https://github.com/ergofobe"
   },
   "license": "MIT",
   "dependencies": {
@@ -37,10 +37,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ergophobe/xrpl-sweep.git"
+    "url": "git+https://github.com/ergofobe/xrpl-sweep.git"
   },
   "bugs": {
-    "url": "https://github.com/ergophobe/xrpl-sweep/issues"
+    "url": "https://github.com/ergofobe/xrpl-sweep/issues"
   },
-  "homepage": "https://github.com/ergophobe/xrpl-sweep#readme"
+  "homepage": "https://github.com/ergofobe/xrpl-sweep#readme"
 }
