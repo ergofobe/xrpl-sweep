@@ -1,0 +1,41 @@
+
+### .gitignore
+
+```gitignore
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json      # Optional: keep if you prefer npm over yarn
+yarn.lock              # Optional: keep if you prefer yarn over npm
+
+# Build / dist
+dist/
+build/
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.swp
+*~
+*.bak
+*.tmp
+
+# Test artifacts (if you add tests later)
+coverage/

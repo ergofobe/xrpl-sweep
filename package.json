@@ -1,0 +1,46 @@
+{
+  "name": "xrpl-sweep",
+  "version": "1.0.0",
+  "description": "CLI tool to sweep XRP from any BIP-39 mnemonic-derived wallet to a new address, including AccountDelete for reserve recovery",
+  "main": "xrpl-sweep.js",
+  "type": "module",
+  "bin": {
+    "xrpl-sweep": "./xrpl-sweep.js"
+  },
+  "scripts": {
+    "start": "node xrpl-sweep.js",
+    "test": "echo \"No tests implemented yet\" && exit 0"
+  },
+  "keywords": [
+    "xrpl",
+    "ripple",
+    "xrp",
+    "sweep",
+    "wallet",
+    "bip39",
+    "account-delete",
+    "reserve-recovery"
+  ],
+  "author": {
+    "name": "Jim Phillips",
+    "email": "jim@ergophobia.org",
+    "url": "https://github.com/ergophobe"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bip39": "^3.1.0",
+    "readline-sync": "^1.4.10",
+    "xrpl": "^4.5.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ergophobe/xrpl-sweep.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ergophobe/xrpl-sweep/issues"
+  },
+  "homepage": "https://github.com/ergophobe/xrpl-sweep#readme"
+}
